@@ -6,7 +6,7 @@
 ["My Birthday is in July", false],
 ["There are 30 days in April", true],
 ["The national animal of Scotland is the unicorn", true],
-["M&amp;M stands for Mars and Murrie", true],
+["M&M stands for Mars and Murrie", true],
 ["A is the most common letter in the english alphabet", false],
 ["The biggest state in America is Alaska", true],
 ["There are 5 main blood types", false],
@@ -27,5 +27,5 @@
 ["Twinkies originally had banana filling", true],
 ["First food grown in space was potatoes", false],
 ["Elvis Presely had a twin brother", true],
-["Red M&amp;Ms were banned for a decade", true]
+["Red M&Ms were banned for a decade", true]
 ]
