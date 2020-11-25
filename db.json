@@ -1,5 +1,31 @@
-{
-  "userId": 1,
-  "id": 6,
-  "title": "Dinosaurs are extinct"
-}
+[
+["Five rings on the Olympic Flag are interlocking", true],
+["Mount Kilimanjaro is the highest mountain in the world", false],
+["A group of swans is known as a bevy", true],
+["The capital of California is San Francisco", false],
+["My Birthday is in July", false],
+["There are 30 days in April", true],
+["The national animal of Scotland is the unicorn", true],
+["M&amp;M stands for Mars and Murrie", true],
+["A is the most common letter in the english alphabet", false],
+["The biggest state in America is Alaska", true],
+["There are 5 main blood types", false],
+["The Channel Tunnel is the longest rail tunnel in the world", false],
+["A woman has walked on the Moon", false],
+["An Emu can fly", true],
+["Abraham Lincoln had no middle name", true],
+["Ronald Reagan was a waiter during highschool", false],
+["Nemo is a puffer fish", false],
+["John Lennon's middle name was Edward", false],
+["Broccoli was once banned in the White House", true],
+["Japan has square watermelons", true],
+["Porcupines can float", true],
+["Before becoming queen, Queen Elizabeth was a mechanic", true],
+["There are 100 concavities on a golf ball", false],
+["All kings in a deck of cards have a mustache", false],
+["Batman's butler is named Albert", false],
+["Twinkies originally had banana filling", true],
+["First food grown in space was potatoes", false],
+["Elvis Presely had a twin brother", true],
+["Red M&amp;Ms were banned for a decade", true]
+]
